@@ -74,4 +74,14 @@ router.post('/order-list',authMiddleware.authenticate,UserController.orderlist)
 
 router.post('/order-details',authMiddleware.authenticate,UserController.orderdetail)
 
+
+
+
+
+
+
+
+
 module.exports = router;
+
+//yash
